@@ -1,0 +1,7 @@
+com\jsonsoft\ExchangeRateConvertApplication.class
+com\jsonsoft\storage\CurrencyDescStorage.class
+com\jsonsoft\SpringBootStartApplication.class
+com\jsonsoft\controller\IndexCtrl.class
+com\jsonsoft\storage\RateStorage.class
+META-INF\spring-configuration-metadata.json
+com\jsonsoft\PropertiesConfig.class

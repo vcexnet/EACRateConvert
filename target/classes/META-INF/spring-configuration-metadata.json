@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rate",
+      "type": "com.jsonsoft.PropertiesConfig",
+      "sourceType": "com.jsonsoft.PropertiesConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rate.convert-type",
+      "type": "java.lang.String",
+      "sourceType": "com.jsonsoft.PropertiesConfig"
+    },
+    {
+      "name": "rate.currencylayer-token",
+      "type": "java.lang.String",
+      "sourceType": "com.jsonsoft.PropertiesConfig"
+    }
+  ],
+  "hints": []
+}
